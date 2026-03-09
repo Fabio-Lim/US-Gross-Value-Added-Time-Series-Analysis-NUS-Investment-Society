@@ -1,2 +1,2 @@
 # US-Gross-Value-Added-Time-Series-Analysis-NUS-Investment-Society
-Created a Python pipeline to collect, clean, and visualise U.S. gross value added and GDP sector data from FRED for quarterly and long-run macroeconomic time-series analysis.
+This project builds a Python pipeline to collect, clean, and analyse U.S. gross value added and GDP sector data from FRED. It covers both quarterly snapshots and long-run historical time-series data, with outputs exported to CSV and visualised using Python libraries. The project is aimed at exploring sector-level macroeconomic trends through structured data processing and visual analysis.
